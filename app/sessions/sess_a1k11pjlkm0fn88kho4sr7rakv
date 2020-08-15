@@ -1,0 +1,1 @@
+sessionStartTime|i:1596944088;lang|s:2:"en";user|O:21:"MVC\Models\UsersModel":10:{s:6:"UserId";s:1:"6";s:8:"Username";s:5:"admin";s:8:"Password";N;s:5:"Email";N;s:11:"PhoneNumber";N;s:7:"SubDate";N;s:9:"LastLogin";N;s:7:"GroupId";s:1:"1";s:10:"Privileges";a:0:{}s:9:"UserImage";s:37:"f1fe26a205272d5b5d78d2513d9a5a27.jpeg";}

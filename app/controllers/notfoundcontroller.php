@@ -1,0 +1,10 @@
+<?php
+
+namespace MVC\Controllers;
+
+class NotFoundController extends AbstractController {
+    public function notFoundAction() {
+        $this->_view();
+    }
+}
+
